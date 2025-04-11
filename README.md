@@ -5,4 +5,4 @@
 
 <br>
 
-- First time practicing and using [Polars](https://docs.pola.rs/user-guide/getting-started/) for DataFrames.
+- **First time practicing and using [Polars](https://docs.pola.rs/user-guide/getting-started/) for DataFrames.**
